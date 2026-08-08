@@ -44,6 +44,6 @@ body:
     attributes:
       label: Environment
       description: OS, Node.js version, pnpm version, browser
-      placeholder: macOS 14, Node 22, pnpm 10, Chrome 136
+      placeholder: macOS 14, Node 24, pnpm 10.33.4, Chrome 136
     validations:
       required: true
