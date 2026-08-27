@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@iconify-json/lucide':
-        specifier: ^1.2.125
+        specifier: ^1.2.126
         version: 1.2.126
       '@iconify-json/mdi':
         specifier: ^1.2.3
